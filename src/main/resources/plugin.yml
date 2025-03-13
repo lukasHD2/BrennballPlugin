@@ -1,0 +1,6 @@
+name: Brennball
+version: '${project.version}'
+main: de.lukashd2.brennball.Brennball
+authors: [ LukasHD2 ]
+commands:
+  brennball:
